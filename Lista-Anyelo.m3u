@@ -1,0 +1,75 @@
+#EXTM3U
+
+#EXTINF:-1 ,HBO2
+
+https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 ,CINE CANAL1
+
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1 ,UNIVERSAL ESTUDIOS
+
+https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 ,HISTORY
+
+https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+
+#EXTINF:-1 ,WARNER
+
+https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
+#EXTINF:-1 ,PORNO
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/126_.m3u8?token=Dls-N5FOPToteVeL9OzF6A&expires=1661952915&ip=190.14.241.5
+
+#EXTINF:-1 ,PORNO2
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/135_.m3u8?token=M5005uDi6C861hUnw4UHiQ&expires=1661952989&ip=190.14.241.5
+
+
+#EXTINF:-1 ,TNT
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=KHXGUyPI2b72C4Xjb_BHew&expires=1661953062&ip=190.14.241.5
+
+#EXTINF:-1 ,SPACE
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=eEwh-VZExSWVtdAZcPb9pA&expires=1662005958&ip=190.14.241.5
+
+#EXTINF:-1 ,STAR CHANNEL
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=PR4rsaGlSR5EAkMCXgDGww&expires=1661953210&ip=190.14.241.5
+
+#EXTINF:-1 ,CINECANAL
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=mqOFAq0XgP2ChT-KHz-tAg&expires=1661953269&ip=190.14.241.5
+
+#EXTINF:-1 ,WIN SPORT+
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=zXvI_CNXUn8aY1VStmcGiw&expires=1661954639&ip=190.14.241.5
+
+#EXTINF:-1 ,DE PELICULA+
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=C4O-p6IRNgbPoKtQhQzfBg&expires=1661954770&ip=190.14.241.5
+
+#EXTINF:-1 ,PENHOUSE
+
+http://50.7.231.221:8081/39/index.m3u8?wmsAuthSign=1662003439p5i142i41i091Sce7eae319c1878214b48047ff5408310
+
+#EXTINF:-1 ,TIGO SPORT
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=VJ_GlThbD4eOPUKoaZJBWQ&expires=1662004953&ip=190.14.241.5
+
+#EXTINF:-1 ,RCN
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/193_.m3u8?token=8xbzi2jovBxVBPlxTzWmQQ&expires=1662005285&ip=190.14.241.5
+
+#EXTINF:-1 ,FOX CHANNEL
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=36Ivm7ahD1vqfB6lEgTIXg&expires=1662005453&ip=190.14.241.5
+
+#EXTINF:-1 ,AXN
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=LOLoU_FsDOr9X9Xb4FH8Rg&expires=1662005558&ip=190.14.241.5

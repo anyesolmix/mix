@@ -73,3 +73,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=36Ivm7ahD1vqf
 #EXTINF:-1 ,AXN
 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=LOLoU_FsDOr9X9Xb4FH8Rg&expires=1662005558&ip=190.14.241.5
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
